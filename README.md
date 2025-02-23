@@ -1,6 +1,6 @@
 # Pong-game-in-python
 -------------------------------------------------------------------------------------------------------------------------
-🎮 ## Pong Game
+🎮 # Pong Game
 A classic Pong game built using Python's turtle library. This project demonstrates object-oriented programming (OOP) principles, game logic, and collision detection.
 
 🛠️ ## Features
