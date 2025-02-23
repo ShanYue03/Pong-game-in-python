@@ -1,9 +1,9 @@
 # Pong-game-in-python
 -------------------------------------------------------------------------------------------------------------------------
-# 🎮 Pong Game
+## 🎮 Pong Game
 A classic Pong game built using Python's turtle library. This project demonstrates object-oriented programming (OOP) principles, game logic, and collision detection.
 
-# 🛠️ Features
+## 🛠️ Features
 - Two-Player Mode: Play with a friend using the keyboard controls.
 
 - Left Paddle: W (up) and S (down).
@@ -16,7 +16,7 @@ A classic Pong game built using Python's turtle library. This project demonstrat
 
 - Dynamic Speed: The ball's speed increases as the game progresses, adding to the challenge.
 
-# 🔧 How It Works
+## 🔧 How It Works
 1. Paddles: Two paddles are controlled by players to hit the ball.
 
 2. Ball Movement: The ball moves continuously and bounces off walls and paddles.
@@ -33,7 +33,7 @@ If the ball passes the left or right boundary, the opposing player scores a poin
 
 The ball resets to the center after a point is scored.
 
-# 🧰 Technologies Used
+## 🧰 Technologies Used
 - Python
 
 - turtle module for graphics and animations.
